@@ -16,4 +16,5 @@ yes. for examlple, the script will run twice if a person has submitted a google 
 what feature can i add?
 ideally maybe add a variable to your gform data, like a boolean variable that check if the data has been send to a telegram channel or not, if not it will send that data. it may fix the duplication issue stated above.
 
-
+why i didn't do it then? 
+i am currently busy with college and have been busy with my final year project. i might check on it, i might not.
